@@ -1,0 +1,12 @@
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+<<<<<<< HEAD
+  height: 100vh;
+  width: 100vw;
+=======
+  height: 85vh;
+>>>>>>> parent of 00b1465... Fixed horizontal scroll on mobile
+  overflow: hidden;
+}
